@@ -4,23 +4,45 @@ Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA. 
 
 ---
 
-## 🚀 Proyectos Destacados
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+
+### 🛠️ Proyectos Destacados
 
 - 🛠️ **Gestor de Inventarios para Negocios Locales**  
-  Aplicación web que centraliza la disponibilidad de productos en tiendas físicas para mejorar la experiencia del cliente.  
-  _Tecnologías: HTML, CSS, JavaScript, MySQL_
+  _HTML, CSS, JavaScript, MySQL_
 
 - 📚 **Plataforma de Préstamos de Libros**  
-  Proyecto CRUD que gestiona préstamos y devoluciones de libros con control de stock.  
-  _Tecnologías: Python, MySQL_
+  _Python, MySQL_
 
 - 🎮 **Mini Juego en Godot**  
-  Juego 2D simple donde el personaje puede moverse y saltar.  
-  _Tecnologías: Godot 4.3, GDScript_
+  _Godot 4.3, GDScript_
 
 - 🧠 **Segundo Cerebro en Obsidian**  
-  Vault organizado para estudiar programación, matemáticas, inglés y filosofía.  
-  _Utiliza plugins para conectar tareas, lecturas, y guías académicas._
+  _Plugins, Organización_
+
+    </td>
+    <td>
+
+### 🛠️ Plugins y Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
