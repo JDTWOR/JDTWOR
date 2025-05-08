@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]  
+# 👋 Hola, soy Jhon Rojas
 
 Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA. Me apasiona el desarrollo de software, la automatización con Python y la creación de proyectos que resuelvan problemas reales, especialmente en mi comunidad. Estoy constantemente aprendiendo nuevas tecnologías y organizando mis ideas con herramientas como Obsidian y Notion.
 
