@@ -8,37 +8,19 @@ Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA. 
 
 <table>
   <tr>
-    <td>
-
-### 🛠️ Proyectos Destacados
-
-- 🛠️ **Gestor de Inventarios para Negocios Locales**  
-  _HTML, CSS, JavaScript, MySQL_
-
-- 📚 **Plataforma de Préstamos de Libros**  
-  _Python, MySQL_
-
-- 🎮 **Mini Juego en Godot**  
-  _Godot 4.3, GDScript_
-
-- 🧠 **Segundo Cerebro en Obsidian**  
-  _Plugins, Organización_
-
-    </td>
-    <td>
 
 ### 🛠️ Plugins y Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<td>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical)  
-
+ </td>
+ <td>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical)  
-
+ </td>
 [![trophy](https://github-profile-trophy.vercel.app/?username=JDTWOR&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 
-    </td>
   </tr>
 </table>
 
