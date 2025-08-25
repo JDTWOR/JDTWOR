@@ -60,23 +60,8 @@ Metodologías:   Diagramas UML · Normalización BD · Ingeniería de Requisitos
 
 ---
 
-## 🛠️ Plugins y Badges
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JDTWOR&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-
----
-
 ## 📫 Cómo contactarme
 
-- ✉️ Email: [tu-email]  
-- 🌐 Portfolio (en construcción): [tu-dominio o GitHub Pages]  
+- ✉️ Email: jhonrojasr253@gmail.com
+- 🌐 Portfolio: (en construcción)
 - 💬 Me gusta compartir lo que aprendo en GitHub y colaborar en proyectos con propósito.
