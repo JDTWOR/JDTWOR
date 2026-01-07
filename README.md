@@ -1,67 +1,89 @@
-# 👋 Hola, soy Jhon Rojas
+# 👋 Hi, I'm Jhon Rojas
 
-Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA. Me apasiona el desarrollo de software, la automatización con Python y la creación de proyectos que resuelvan problemas reales, especialmente en mi comunidad. Estoy constantemente aprendiendo nuevas tecnologías y organizando mis ideas con herramientas como Obsidian y Notion.
+I'm a **Software Developer and Software Analyst** with a strong focus on **backend development**, **automation**, and **problem-solving through code**. I enjoy building reliable and scalable solutions using **Java with Spring Boot**, designing **RESTful APIs**, and working with **JPA/Hibernate** for data persistence.
 
----
+I also work on **automation with Python**, creating scripts and tools that improve workflows and reduce repetitive tasks. I’m a continuous learner who enjoys exploring new technologies, improving system performance, and writing clean, maintainable code.
 
-<div align="center">
-
-### 📊 Mis estadísticas GitHub
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical" alt="Estadísticas GitHub"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical" alt="Lenguajes más usados"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=JDTWOR&theme=gruvbox" alt="Logros GitHub"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+I’m comfortable working in **Linux-based environments** and I actively use tools like **Neovim (LazyVim)**, **Git**, and terminal-based workflows to maximize productivity. I organize my learning and projects using **Obsidian** and **Notion**, and I’m always refining my development process.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JDTWOR&theme=gruvbox" />
+</p>
 
-</div>
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
 
 ```text
-Lenguajes:      Python · JavaScript · SQL · HTML/CSS · Dart (Flutter) · PSeInt
-Frameworks:     Flet · Flask · Godot
-Bases de datos: MySQL · SQLite · JSON
-Herramientas:   Git · GitHub · Obsidian · Notion · Visual Studio Code
-Metodologías:   Diagramas UML · Normalización BD · Ingeniería de Requisitos
+Languages:       Java · Python · JavaScript · SQL · HTML/CSS · Dart · PSeInt
+Backend:         Spring Boot · JPA/Hibernate · REST APIs
+Databases:       MySQL · SQLite · JSON
+Automation:      Python scripting · CLI tools · Workflow automation
+Tools:           Git · GitHub · Neovim (LazyVim) · VS Code · Obsidian · Notion
+OS & Envs:       Linux (Fedora / Arch) · Terminal-based workflows
+Practices:       Clean Code · UML Diagrams · Database Normalization ·
+                 Requirements Analysis · Problem Solving
 ```
+## 📈 What I'm currently working on
+
+- Building REST APIs with Java, Spring Boot, and JPA
+
+- Improving backend architecture and database design
+📈 What I'm currently working on
+
+Building REST APIs with Java, Spring Boot, and JPA
+
+Improving backend architecture and database design
+
+Creating automation tools with Python
+
+Studying data structures, algorithms, and software design principles
+
+Optimizing my Linux + Neovim workflow
+
+Exploring Flutter for cross-platform apps
+
+📫 How to reach me
+
+✉️ Email: jhonrojasr253@gmail.com
+
+🌐 Portfolio: under construction
+
+💬 I enjoy sharing what I learn on GitHub and collaborating on meaningful projects
+- Creating automation tools with Python
+
+- Studying data structures, algorithms, and software design principles
+
+- Optimizing my Linux + Neovim workflow
+
+- Exploring Flutter for cross-platform apps
 
 ---
 
-## 📈 En lo que estoy trabajando ahora
+## 📫 How to reach me
 
-- Aprendiendo Flutter con Visual Studio Code.
-- Estudiando algoritmos y estructuras de datos.
-- Creando una herramienta visual de aprendizaje con Flet + Python.
-- Mejorando mis habilidades en lógica, SQL y matemáticas para competencias académicas.
+✉️ Email: jhonrojasr253@gmail.com
 
----
+🌐 Portfolio: under construction
 
-## 📫 Cómo contactarme
-
-- ✉️ Email: jhonrojasr253@gmail.com
-- 🌐 Portfolio: (en construcción)
-- 💬 Me gusta compartir lo que aprendo en GitHub y colaborar en proyectos con propósito.
+💬 I enjoy sharing what I learn on GitHub and collaborating on meaningful projects
