@@ -1,89 +1,74 @@
-# 👋 Hi, I'm Jhon Rojas
+<h1 align="center">👋 Hi, I'm Jhon Rojas</h1>
+<h3 align="center">Software Developer & Analyst · SENA Technologist in Software Analysis & Development</h3>
 
-I'm a **Software Developer and Software Analyst** with a strong focus on **backend development**, **automation**, and **problem-solving through code**. I enjoy building reliable and scalable solutions using **Java with Spring Boot**, designing **RESTful APIs**, and working with **JPA/Hibernate** for data persistence.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-I also work on **automation with Python**, creating scripts and tools that improve workflows and reduce repetitive tasks. I’m a continuous learner who enjoys exploring new technologies, improving system performance, and writing clean, maintainable code.
+I'm a software developer and analyst focused on **backend engineering**, **automation**, and **problem-solving through code**. I build reliable, scalable solutions with **Java + Spring Boot**, design **RESTful APIs**, and work with **JPA/Hibernate** for data persistence. I also write **Python** scripts to automate workflows and remove repetitive tasks.
 
-I’m comfortable working in **Linux-based environments** and I actively use tools like **Neovim (LazyVim)**, **Git**, and terminal-based workflows to maximize productivity. I organize my learning and projects using **Obsidian** and **Notion**, and I’m always refining my development process.
+I work daily on **Linux** with a terminal-first setup (**Neovim**, **Git**, CLI tools), and I'm always learning — currently exploring **Rust**, **Go**, **Flutter**, and containerized deployments with **Docker**.
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Java · Python · TypeScript · JavaScript · SQL · Dart · Rust · Go · HTML/CSS |
+| **Backend** | Spring Boot · JPA/Hibernate · REST APIs · Gin (Go) · Axum (Rust) |
+| **Frontend** | React · Vite · Next.js · Flutter |
+| **Databases** | MySQL · PostgreSQL · SQLite · Redis |
+| **DevOps & Tools** | Docker · Docker Compose · Git · GitHub · Linux (Arch / Fedora) |
+| **Workflow** | Neovim (LazyVim) · Obsidian · Notion · Terminal-first |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [CDATTG-WEB](https://github.com/JDTWOR/CDATTG-WEB) | Academic & administrative platform with attendance control and RBAC | React · Go (Gin) · Docker |
+| [prueba-aplication](https://github.com/JDTWOR/prueba-aplication) | VPS stress lab: full-stack app with load testing | Rust (Axum) · React · PostgreSQL · Caddy |
+| [gestion_eventos_api](https://github.com/JDTWOR/gestion_eventos_api) | Event management REST API | Java · Spring Boot |
+| [poke_app](https://github.com/JDTWOR/poke_app) | Pokémon viewer built with PokeAPI | Flutter · Dart |
+| [jdtwor-nvim](https://github.com/JDTWOR/jdtwor-nvim) | Transparent Neovim colorscheme for Kitty | Lua |
+| [calculadora-rust](https://github.com/JDTWOR/calculadora-rust) | Terminal calculator | Rust |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JDTWOR&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌱 What I'm currently working on
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
-```text
-Languages:       Java · Python · JavaScript · SQL · HTML/CSS · Dart · PSeInt
-Backend:         Spring Boot · JPA/Hibernate · REST APIs
-Databases:       MySQL · SQLite · JSON
-Automation:      Python scripting · CLI tools · Workflow automation
-Tools:           Git · GitHub · Neovim (LazyVim) · VS Code · Obsidian · Notion
-OS & Envs:       Linux (Fedora / Arch) · Terminal-based workflows
-Practices:       Clean Code · UML Diagrams · Database Normalization ·
-                 Requirements Analysis · Problem Solving
-```
-## 📈 What I'm currently working on
-
-- Building REST APIs with Java, Spring Boot, and JPA
-
+- Building REST APIs with **Java, Spring Boot, and JPA**
 - Improving backend architecture and database design
-📈 What I'm currently working on
-
-Building REST APIs with Java, Spring Boot, and JPA
-
-Improving backend architecture and database design
-
-Creating automation tools with Python
-
-Studying data structures, algorithms, and software design principles
-
-Optimizing my Linux + Neovim workflow
-
-Exploring Flutter for cross-platform apps
-
-📫 How to reach me
-
-✉️ Email: jhonrojasr253@gmail.com
-
-🌐 Portfolio: under construction
-
-💬 I enjoy sharing what I learn on GitHub and collaborating on meaningful projects
-- Creating automation tools with Python
-
+- Creating automation tools with **Python**
 - Studying data structures, algorithms, and software design principles
-
-- Optimizing my Linux + Neovim workflow
-
-- Exploring Flutter for cross-platform apps
+- Optimizing my **Linux + Neovim** workflow
+- Exploring **Flutter**, **Rust**, and **Docker** for new projects
 
 ---
 
 ## 📫 How to reach me
 
-✉️ Email: jhonrojasr253@gmail.com
+📧 **Email:** [jhonrojasr253@gmail.com](mailto:jhonrojasr253@gmail.com)
 
-🌐 Portfolio: under construction
-
-💬 I enjoy sharing what I learn on GitHub and collaborating on meaningful projects
+💬 I enjoy sharing what I learn on GitHub and collaborating on meaningful projects.
