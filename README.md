@@ -1,74 +1,86 @@
-<h1 align="center">👋 Hi, I'm Jhon Rojas</h1>
-<h3 align="center">Software Developer & Analyst · SENA Technologist in Software Analysis & Development</h3>
+# Hi, I'm Jhon Rojas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+**Backend developer focused on business automation and messaging integrations.**
 
-I'm a software developer and analyst focused on **backend engineering**, **automation**, and **problem-solving through code**. I build reliable, scalable solutions with **Java + Spring Boot**, design **RESTful APIs**, and work with **JPA/Hibernate** for data persistence. I also write **Python** scripts to automate workflows and remove repetitive tasks.
+Based in Colombia (UTC-5). Open to remote freelance work, junior backend roles, and scoped contributions to larger projects.
 
-I work daily on **Linux** with a terminal-first setup (**Neovim**, **Git**, CLI tools), and I'm always learning — currently exploring **Rust**, **Go**, **Flutter**, and containerized deployments with **Docker**.
+I build APIs, internal tools, and integrations that connect business systems and reduce repetitive work. My current focus is **Rust, Axum, SQLx, PostgreSQL, and Redis**, alongside experience with Go, Laravel, and React.
 
----
+[Discuss a project](mailto:jhonrojasr253@gmail.com) · [Explore my repositories](https://github.com/JDTWOR?tab=repositories)
 
-## 🛠️ Tech Stack
+## What I can help with
+
+- **Messaging integrations:** WhatsApp Cloud API, Facebook Messenger, webhooks, lead capture, routing, and handoff to a human team.
+- **Business automation:** connect APIs and databases, synchronize information, and build tools for repetitive operational tasks.
+- **Backend development:** REST APIs, authentication, role-based permissions, reporting, and real-time notifications.
+- **AI-assisted workflows:** integrate providers such as DeepSeek, OpenAI, or OpenRouter, with model selection and usage costs considered as part of the project.
+- **Deployment:** containerize applications with Docker and Docker Compose and deploy them on Linux servers.
+
+## Selected public projects
+
+### [CDATTG-WEB — Academic and administrative management](https://github.com/JDTWOR/CDATTG-WEB)
+
+A platform for academic and administrative workflows at CDATTG (SENA), including attendance tracking, people management, and infrastructure administration.
+
+- JWT authentication and role-based access control.
+- Go REST API with a React and TypeScript frontend.
+- PostgreSQL persistence and Docker Compose deployment.
+
+**Stack:** Go · Gin · GORM · React · TypeScript · PostgreSQL · Docker
+
+### [VPS Stress Lab — Rust backend and load-testing playground](https://github.com/JDTWOR/prueba-aplication)
+
+A full-stack lab for exploring application behavior on a small VPS, with a workload endpoint, configurable concurrent requests, and a k6 smoke-test script.
+
+- Rust API with SQLx, PostgreSQL, and Redis.
+- React interface for running workloads.
+- Caddy reverse proxy and Docker Compose setup.
+
+**Stack:** Rust · Axum · SQLx · PostgreSQL · Redis · React · Caddy · k6
+
+### [Academic Scheduler — Constraint-based scheduling](https://github.com/JDTWOR/programacion-instructores)
+
+A scheduling engine that models instructor availability, required teaching hours, prerequisites, and recurring weekly sessions.
+
+- Hard and soft constraints using OR-Tools CP-SAT.
+- JSON input/output and CSV/XLSX exports.
+- Feasibility checks and experiments for tuning scheduling preferences.
+
+**Stack:** Python · OR-Tools · JSON · CSV/XLSX
+
+### [Kairos — Persistent CLI agent for Linux](https://github.com/JDTWOR/kairos)
+
+An early-stage personal agent with persistent conversations, task state, and a terminal interface.
+
+- Rust workspace with SQLite storage through SQLx.
+- OpenRouter integration with streaming and fallback support.
+- Task lifecycle commands and token/cost tracking.
+
+**Status:** In development. The foundation is documented in the repository; the complete tool-execution loop remains a future milestone.
+
+**Stack:** Rust · SQLx · SQLite · OpenRouter · TUI
+
+## Messaging and automation experience
+
+My messaging work includes WhatsApp Cloud API and Facebook Messenger bots, automated responses, profile/catalog navigation, and notification workflows. This experience is separate from the public repositories listed above.
+
+For a new project, I prefer to agree on a small first milestone: a clear input, expected output, acceptance criteria, and a handover. Larger projects can be divided into paid phases.
+
+## Technical focus
 
 | Area | Technologies |
-|------|--------------|
-| **Languages** | Java · Python · TypeScript · JavaScript · SQL · Dart · Rust · Go · HTML/CSS |
-| **Backend** | Spring Boot · JPA/Hibernate · REST APIs · Gin (Go) · Axum (Rust) |
-| **Frontend** | React · Vite · Next.js · Flutter |
-| **Databases** | MySQL · PostgreSQL · SQLite · Redis |
-| **DevOps & Tools** | Docker · Docker Compose · Git · GitHub · Linux (Arch / Fedora) |
-| **Workflow** | Neovim (LazyVim) · Obsidian · Notion · Terminal-first |
+| --- | --- |
+| Main backend stack | Rust, Axum, SQLx, PostgreSQL, Redis |
+| Other backend experience | Go, Gin, GORM, PHP, Laravel, Java, Spring Boot, C#, .NET |
+| Frontend | React, TypeScript, Vite |
+| Integrations | REST APIs, webhooks, WhatsApp Cloud API, Facebook Messenger |
+| Infrastructure | Docker, Docker Compose, Linux, Git, Caddy |
 
----
+## Working together
 
-## 🚀 Featured Projects
+- **Location:** Colombia, UTC-5.
+- **Languages:** Native Spanish; English B1, actively studying. I prefer to start with written communication and prepare an agenda for calls.
+- **Availability:** Open to discussing small paid projects and defined milestones within larger projects.
+- **Contact:** [jhonrojasr253@gmail.com](mailto:jhonrojasr253@gmail.com).
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [CDATTG-WEB](https://github.com/JDTWOR/CDATTG-WEB) | Academic & administrative platform with attendance control and RBAC | React · Go (Gin) · Docker |
-| [prueba-aplication](https://github.com/JDTWOR/prueba-aplication) | VPS stress lab: full-stack app with load testing | Rust (Axum) · React · PostgreSQL · Caddy |
-| [gestion_eventos_api](https://github.com/JDTWOR/gestion_eventos_api) | Event management REST API | Java · Spring Boot |
-| [poke_app](https://github.com/JDTWOR/poke_app) | Pokémon viewer built with PokeAPI | Flutter · Dart |
-| [jdtwor-nvim](https://github.com/JDTWOR/jdtwor-nvim) | Transparent Neovim colorscheme for Kitty | Lua |
-| [calculadora-rust](https://github.com/JDTWOR/calculadora-rust) | Terminal calculator | Rust |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JDTWOR&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDTWOR&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🌱 What I'm currently working on
-
-- Building REST APIs with **Java, Spring Boot, and JPA**
-- Improving backend architecture and database design
-- Creating automation tools with **Python**
-- Studying data structures, algorithms, and software design principles
-- Optimizing my **Linux + Neovim** workflow
-- Exploring **Flutter**, **Rust**, and **Docker** for new projects
-
----
-
-## 📫 How to reach me
-
-📧 **Email:** [jhonrojasr253@gmail.com](mailto:jhonrojasr253@gmail.com)
-
-💬 I enjoy sharing what I learn on GitHub and collaborating on meaningful projects.
+When reaching out, please include the problem you want to solve, your current tools, and your timeline. We can then define a practical first milestone and estimate the work.
